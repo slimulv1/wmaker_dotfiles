@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-wpg -rs '/home/magnus/Bilder/Wallpapers//warrior-girl-with-katana-wearing-monster-mask-wallpaper-2560x1440_51.jpg' '/home/magnus/Bilder/Wallpapers//warrior-girl-with-katana-wearing-monster-mask-wallpaper-2560x1440_51.jpg'
+wpg -rs '/home/slimu7/Pictures/Wallpapers//wallpaper.jpg' '/home/slimu7/Pictures/Wallpapers//wallpaper.jpg'
