@@ -1,5 +1,5 @@
 (
-  "Arch Linux",
+  "Void Linux",
   (
     Applications,
     OPEN_PLMENU,
@@ -64,14 +64,14 @@
       "controls.sh brightness_down"
     ),
     (Mute, SHORTCUT, XF86AudioMute, EXEC, "controls.sh volume_mute"),
-    (Rofi, SHORTCUT, "Mod4+z", EXEC, "rofi -show drun"),
+    (Rofi, SHORTCUT, "Mod4+r", EXEC, "rofi -show drun"),
     ("Change Wallpaper", SHORTCUT, "Mod4+w", EXEC, wallpaper.sh),
     ("File Browser", SHORTCUT, "Mod4+f", EXEC, "rofi -show filebrowser"),
     ("Window Switch", SHORTCUT, "Mod4+Tab", EXEC, "rofi -show window"),
     (
       "Lock Screen",
       SHORTCUT,
-      "Mod4+Delete",
+      "Mod4+l",
       EXEC,
       "betterlockscreen -l blur"
     ),
