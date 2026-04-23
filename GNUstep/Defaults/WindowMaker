@@ -5,9 +5,9 @@
   MenuDisabledColor = gray40;
   IconTitleBack = "#120e21";
   PixmapPath = (
-    "/home/slimu7/GNUstep/Library/WindowMaker/Pixmaps",
-    "/home/slimu7/GNUstep/Library/WindowMaker/Backgrounds",
-    "/home/slimu7/GNUstep/Library/WindowMaker/CachedPixmaps",
+    "$HOME/GNUstep/Library/WindowMaker/Pixmaps",
+    "$HOME/GNUstep/Library/WindowMaker/Backgrounds",
+    "$HOME/GNUstep/Library/WindowMaker/CachedPixmaps",
     "~/pixmaps",
     "/usr/share/WindowMaker/Pixmaps",
     "/usr/share/WindowMaker/Backgrounds",
@@ -68,15 +68,15 @@
   MenuStyle = flat;
   MoveToWorkspace6Key = "Shift+Mod4+6";
   IconPath = (
-    "/home/slimu7/GNUstep/Library/Icons",
-    "/home/slimu7/GNUstep/Library/WindowMaker/Pixmaps",
-    "/home/slimu7/GNUstep/Library/WindowMaker/CachedPixmaps",
+    "$HOME/GNUstep/Library/Icons",
+    "$HOME/GNUstep/Library/WindowMaker/Pixmaps",
+    "$HOME/GNUstep/Library/WindowMaker/CachedPixmaps",
     "~/pixmaps",
     "/usr/share/WindowMaker/Icons",
     "/usr/share/WindowMaker/Pixmaps",
     "/usr/share/pixmaps",
     "/usr/share/icons/Tela-circle-pink-dark/scalable/apps",
-    "/home/slimu7/.icons/GNUstep/apps/48"
+    "$HOME/.icons/GNUstep/apps/48"
   );
   Workspace4Key = "Mod4+4";
   MoveToWorkspace10Key = "Shift+Mod4+0";
